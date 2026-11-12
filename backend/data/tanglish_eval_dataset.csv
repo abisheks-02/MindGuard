@@ -1,0 +1,201 @@
+Text,Tamil%,English%,Severity_Label,Confidence
+Exam nalla pannen da,100,0,Normal,1.0
+Movie sema mass ah irunthuchu machan,100,0,Normal,1.0
+Weekend plans enna machan machan,80,20,Normal,1.0
+I am feeling good today pa,67,33,Normal,1.0
+Movie sema mass ah irunthuchu da,100,0,Normal,1.0
+I am feeling good today machan,67,33,Normal,1.0
+Food taste nalla iruku da,100,0,Normal,1.0
+Innaiku romba happy ah iruken bro,100,0,Normal,1.0
+"Nothing special, just chilling",75,25,Normal,1.0
+Exam nalla pannen pa,100,0,Normal,1.0
+Match epo start aaguthu pa,100,0,Normal,1.0
+Nalla thookam vanthuchu pa,100,0,Normal,1.0
+Food taste nalla iruku,100,0,Normal,1.0
+Innaiku romba happy ah iruken da,100,0,Normal,1.0
+Friends kooda veliya poren pa,80,20,Normal,1.0
+Saptiya da machan,100,0,Normal,1.0
+Song romba nalla iruku bro,100,0,Normal,1.0
+Food taste nalla iruku,100,0,Normal,1.0
+"Nothing special, just chilling da",80,20,Normal,1.0
+Nalla thookam vanthuchu bro,100,0,Normal,1.0
+Weekend plans enna machan da,80,20,Normal,1.0
+I am feeling good today da,67,33,Normal,1.0
+Song romba nalla iruku bro,100,0,Normal,1.0
+Song romba nalla iruku,100,0,Normal,1.0
+Food taste nalla iruku machan,100,0,Normal,1.0
+Saptiya da pa,100,0,Normal,1.0
+I am feeling good today bro,67,33,Normal,1.0
+Innaiku romba happy ah iruken machan,100,0,Normal,1.0
+Movie sema mass ah irunthuchu machan,100,0,Normal,1.0
+Naalai office poganum,100,0,Normal,1.0
+All is well machan,100,0,Normal,1.0
+I am feeling good today pa,67,33,Normal,1.0
+Food taste nalla iruku da,100,0,Normal,1.0
+Song romba nalla iruku pa,100,0,Normal,1.0
+Movie sema mass ah irunthuchu,100,0,Normal,1.0
+Movie sema mass ah irunthuchu da,100,0,Normal,1.0
+Weekend plans enna machan machan,80,20,Normal,1.0
+All is well bro,100,0,Normal,1.0
+Naalai office poganum,100,0,Normal,1.0
+Song romba nalla iruku machan,100,0,Normal,1.0
+Innaiku romba happy ah iruken da,100,0,Normal,1.0
+Nalla thookam vanthuchu da,100,0,Normal,1.0
+Song romba nalla iruku bro,100,0,Normal,1.0
+All is well bro,100,0,Normal,1.0
+Saptiya da machan,100,0,Normal,1.0
+Nalla thookam vanthuchu pa,100,0,Normal,1.0
+All is well bro,100,0,Normal,1.0
+Weekend plans enna machan da,80,20,Normal,1.0
+Weekend plans enna machan bro,80,20,Normal,1.0
+Movie sema mass ah irunthuchu pa,100,0,Normal,1.0
+Boring day pa,100,0,Mild,0.9
+Konjam tired aa iruku pa,80,20,Mild,0.9
+Sariyana thookam illa...,100,0,Mild,0.9
+Mood out aagiduchu thala,100,0,Mild,0.9
+Ennamo pola iruku...,100,0,Mild,0.9
+Body full pain ah iruku pa,84,16,Mild,0.9
+Thala vali thaangamudiyala...,100,0,Mild,0.9
+Thala vali thaangamudiyala thala,100,0,Mild,0.9
+I feel a bit sad today...,50,50,Mild,0.9
+Nothing feels right today machan,40,60,Mild,0.9
+Thala vali thaangamudiyala...,100,0,Mild,0.9
+Slightly depressed about the result machan,100,0,Mild,0.9
+Sariyana thookam illa machan,100,0,Mild,0.9
+Thala vali thaangamudiyala machan,100,0,Mild,0.9
+Konjam tired aa iruku thala,80,20,Mild,0.9
+Innaiku work romba stress machan,60,40,Mild,0.9
+Sariyana thookam illa thala,100,0,Mild,0.9
+Slightly depressed about the result,100,0,Mild,0.9
+Boring day...,100,0,Mild,0.9
+Sariyana thookam illa,100,0,Mild,0.9
+Mood out aagiduchu thala,100,0,Mild,0.9
+Boring day pa,100,0,Mild,0.9
+Innaiku work romba stress thala,60,40,Mild,0.9
+Innaiku work romba stress thala,60,40,Mild,0.9
+Manasu sariyilla machan,100,0,Mild,0.9
+Konjam upset ah iruken machan,100,0,Mild,0.9
+Velaiku poga pidikala,100,0,Mild,0.9
+Body full pain ah iruku thala,84,16,Mild,0.9
+Manasu sariyilla machan,100,0,Mild,0.9
+I feel a bit sad today thala,58,42,Mild,0.9
+Boring day...,100,0,Mild,0.9
+Body full pain ah iruku machan,84,16,Mild,0.9
+Boring day pa,100,0,Mild,0.9
+Konjam upset ah iruken...,100,0,Mild,0.9
+Innaiku work romba stress pa,60,40,Mild,0.9
+I feel a bit sad today thala,58,42,Mild,0.9
+Mood out aagiduchu,100,0,Mild,0.9
+Konjam upset ah iruken pa,100,0,Mild,0.9
+Manasu sariyilla pa,100,0,Mild,0.9
+Body full pain ah iruku machan,84,16,Mild,0.9
+Sariyana thookam illa pa,100,0,Mild,0.9
+Nothing feels right today pa,40,60,Mild,0.9
+Mood out aagiduchu,100,0,Mild,0.9
+Konjam tired aa iruku,75,25,Mild,0.9
+Nothing feels right today thala,40,60,Mild,0.9
+Nothing feels right today machan,40,60,Mild,0.9
+Sariyana thookam illa pa,100,0,Mild,0.9
+Slightly depressed about the result thala,100,0,Mild,0.9
+Innaiku work romba stress pa,60,40,Mild,0.9
+Boring day,100,0,Mild,0.9
+Enaku yaru me illa...,100,0,Moderate,0.9
+Ellam thappa nadakuthu literally,100,0,Moderate,0.9
+Depression la iruken literally,100,0,Moderate,0.9
+Enaku yaru me illa da,100,0,Moderate,0.9
+Romba alone ah feel panren da,84,16,Moderate,0.9
+I am feeling very hopeless...,40,60,Moderate,0.9
+Romba alone ah feel panren literally,84,16,Moderate,0.9
+Azhanum pola iruku,100,0,Moderate,0.9
+Future patha bayama iruku,75,25,Moderate,0.9
+Azhanum pola iruku literally,100,0,Moderate,0.9
+Ellam thappa nadakuthu,100,0,Moderate,0.9
+Ellam thappa nadakuthu da,100,0,Moderate,0.9
+Romba alone ah feel panren literally,84,16,Moderate,0.9
+Life ye veruthuduchu literally,75,25,Moderate,0.9
+Kastama iruku thaanga mudiyala da,100,0,Moderate,0.9
+Life ye veruthuduchu...,67,33,Moderate,0.9
+Depression la iruken da,100,0,Moderate,0.9
+Romba alone ah feel panren da,84,16,Moderate,0.9
+Azhanum pola iruku da,100,0,Moderate,0.9
+I hate myself right now da,67,33,Moderate,0.9
+I hate myself right now,60,40,Moderate,0.9
+Romba alone ah feel panren literally,84,16,Moderate,0.9
+Azhanum pola iruku,100,0,Moderate,0.9
+Romba alone ah feel panren literally,84,16,Moderate,0.9
+Enaku yaru me illa literally,100,0,Moderate,0.9
+Azhanum pola iruku da,100,0,Moderate,0.9
+I am feeling very hopeless literally,50,50,Moderate,0.9
+Future patha bayama iruku literally,80,20,Moderate,0.9
+Future patha bayama iruku literally,80,20,Moderate,0.9
+Azhanum pola iruku...,100,0,Moderate,0.9
+Azhanum pola iruku...,100,0,Moderate,0.9
+Enaku yaru me illa literally,100,0,Moderate,0.9
+Kastama iruku thaanga mudiyala,100,0,Moderate,0.9
+Romba alone ah feel panren,80,20,Moderate,0.9
+Romba alone ah feel panren literally,84,16,Moderate,0.9
+Enaku yaru me illa,100,0,Moderate,0.9
+Ethukum oru meaning illatha mathiri iruku,100,0,Moderate,0.9
+Life ye veruthuduchu...,67,33,Moderate,0.9
+Narakam mathiri iruku life,75,25,Moderate,0.9
+En thevai illanu thonuthu,100,0,Moderate,0.9
+Ellam thappa nadakuthu...,100,0,Moderate,0.9
+Mind totally blocked...,100,0,Moderate,0.9
+Narakam mathiri iruku life...,75,25,Moderate,0.9
+Romba alone ah feel panren da,84,16,Moderate,0.9
+Depression la iruken literally,100,0,Moderate,0.9
+Ellam thappa nadakuthu literally,100,0,Moderate,0.9
+En thevai illanu thonuthu,100,0,Moderate,0.9
+I am feeling very hopeless literally,50,50,Moderate,0.9
+Life ye veruthuduchu da,75,25,Moderate,0.9
+Narakam mathiri iruku life,75,25,Moderate,0.9
+I want to end my life,67,33,Severe,0.95
+Poison kudichidalam,100,0,Severe,0.95
+Vazhkai mudinjiduchu suicide thaan bye,100,0,Severe,0.95
+I want to end my life...,67,33,Severe,0.95
+Inimel uyiroda iruka pidikala permanently,100,0,Severe,0.95
+Jeevikka mudiyala machan,100,0,Severe,0.95
+Death ku poitu vanduvaan bye,100,0,Severe,0.95
+Poison kudichidalam machan,100,0,Severe,0.95
+Sethuralam nu thonuthu machan,100,0,Severe,0.95
+Ellame mudichukanum pola iruku,100,0,Severe,0.95
+Saagalam pola iruku bye,100,0,Severe,0.95
+I want to end my life bye,72,28,Severe,0.95
+Poison kudichidalam machan,100,0,Severe,0.95
+No reason to live anymore permanently,100,0,Severe,0.95
+Sethuralam nu thonuthu,100,0,Severe,0.95
+I am going to kill myself permanently,86,14,Severe,0.95
+Ellame mudichukanum pola iruku permanently,100,0,Severe,0.95
+I want to end my life...,67,33,Severe,0.95
+Saaganum pola iruku bye,100,0,Severe,0.95
+Thooku potukalam nu iruken,100,0,Severe,0.95
+Saagalam pola iruku machan,100,0,Severe,0.95
+I am going to kill myself bye,86,14,Severe,0.95
+Sethuralam nu thonuthu,100,0,Severe,0.95
+Uyira vitudalam machan,100,0,Severe,0.95
+Poison kudichidalam...,100,0,Severe,0.95
+No reason to live anymore,100,0,Severe,0.95
+I am going to kill myself,84,16,Severe,0.95
+Jeevikka mudiyala permanently,100,0,Severe,0.95
+Uyira vitudalam bye,100,0,Severe,0.95
+Jeevikka mudiyala,100,0,Severe,0.95
+No reason to live anymore machan,100,0,Severe,0.95
+I am going to kill myself machan,86,14,Severe,0.95
+Saagalam pola iruku permanently,100,0,Severe,0.95
+Death ku poitu vanduvaan bye,100,0,Severe,0.95
+Saaganum pola iruku,100,0,Severe,0.95
+Setha nalla irukum bye,100,0,Severe,0.95
+Sethuralam nu thonuthu bye,100,0,Severe,0.95
+I am going to kill myself permanently,86,14,Severe,0.95
+Vazhkai mudinjiduchu suicide thaan bye,100,0,Severe,0.95
+Ellame mudichukanum pola iruku,100,0,Severe,0.95
+Vazhkai mudinjiduchu suicide thaan...,100,0,Severe,0.95
+Jeevikka mudiyala machan,100,0,Severe,0.95
+Setha nalla irukum...,100,0,Severe,0.95
+Vazhkai mudinjiduchu suicide thaan...,100,0,Severe,0.95
+Poison kudichidalam bye,100,0,Severe,0.95
+Saagalam pola iruku...,100,0,Severe,0.95
+I want to end my life machan,72,28,Severe,0.95
+Vazhkai mudinjiduchu suicide thaan...,100,0,Severe,0.95
+Sethuralam nu thonuthu bye,100,0,Severe,0.95
+Sethuralam nu thonuthu bye,100,0,Severe,0.95

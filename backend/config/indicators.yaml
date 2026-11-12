@@ -1,0 +1,3 @@
+compute_speech_metrics: true
+compute_linguistic_metrics: true
+min_audio_duration_seconds: 3.0

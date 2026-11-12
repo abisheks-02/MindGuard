@@ -1,0 +1,38 @@
+{
+  "Severe": [
+    "suicide", "kill myself", "end my life", "end it all",
+    "want to die", "going to die", "i will die", "feel like dying",
+    "sagalam", "saagalam", "saaganum", "saganum", "sagaanum",
+    "saagalam pola iruku", "sagalam pola iruku",
+    "saaganum pola iruku", "saganum pola iruku",
+    "setha", "sethu", "sethuralam", "sethudalam", "seththudalam",
+    "seththu poiduven", "sethuruven", "sethukka",
+    "no point in living", "tired of living", "better off dead",
+    "tarkolai", "thookku pottukkanum", "thookku",
+    "uyir vittuviduven", "uyir vittuiduven",
+    "naan saaga poren", "naan saga poren",
+    "I shouldn't be here", "should not exist",
+    "ellame mudichukanum", "mudichukanum",
+    "sleep forever", "can't take this pain anymore", "ennala inimey mudiyathu"
+  ],
+  "Moderate": [
+    "depression", "meaningless", "burden", "hopeless", "can't go on like this",
+    "valikithu", "kanna katti", "everything is falling apart", "feel so alone",
+    "iruttu", "manasu romba kashtama iruku", "mudiyala",
+    "worthless", "empty inside", "no motivation", "hate myself",
+    "crying every day", "romba thani", "thani aa iruken",
+    "yaarum purinjikala", "yaarum theriyala", "empty aa iruken",
+    "kashtama iruku", "romba azhugai", "azhugai varuthu"
+  ],
+  "Mild": [
+    "stress", "tired", "sad", "down", "low", "bored", "anxious", "nervous",
+    "kavalai", "payama iruku", "sogama", "worried", "uneasy", "restless",
+    "can't sleep", "thookam varala", "konjam kavalai", "tension iruku",
+    "romba tired", "romba bored", "sogam", "lonely"
+  ],
+  "Negation": [
+    "never", "not", "won't", "don't", "no", "doesn't", "didn't", "can't",
+    "illa", "illai", "kidaiyathu", "mattan", "matten", "maatten", "maaten",
+    "venaam", "koodathu", "koodadu", "poralla", "poren illa"
+  ]
+}

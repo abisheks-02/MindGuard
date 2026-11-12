@@ -1,0 +1,40 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Local application data and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# Downloaded model artifacts and generated evaluations
+backend/models/
+backend/eval_results/
+backend/eval_results_probe/
+eval_results/
+backend/data/hf_tanglish_185k.csv
+backend/data/retraining/user_corrections.csv
+
+# JavaScript build and package artifacts
+node_modules/
+dist/
+.vite/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Internal document build workspaces
+.docx-work/

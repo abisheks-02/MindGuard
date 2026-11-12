@@ -1,0 +1,14 @@
+detectors:
+  lexicon:
+    enabled: true
+    weight: 1.0
+  muril:
+    enabled: true
+    weight: 1.0
+  llm_judge:
+    enabled: true
+    weight: 1.0
+
+thresholds:
+  confidence_min_threshold: 0.60
+  disagreement_bump_levels: 2

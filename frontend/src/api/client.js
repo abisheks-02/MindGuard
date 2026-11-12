@@ -1,0 +1,14 @@
+/**
+ * Centralized Axios client.
+ * All API modules import from here so the base URL is set in one place.
+ */
+import axios from 'axios';
+
+export const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api/v1';
+
+const client = axios.create({
+  baseURL: API_BASE_URL,
+  headers: { 'Content-Type': 'application/json' },
+});
+
+export default client;

@@ -1,0 +1,31 @@
+global:
+  cooldown_hours: 6
+  cancellation_grace_seconds: 60
+
+rules:
+  - severity: "Severe"
+    condition: "confidence >= 0.7 or needs_review == true"
+    actions:
+      - type: "in_app_crisis_screen"
+        helplines:
+          - name: "Tele-MANAS"
+            number: "14416"
+          - name: "iCall"
+            number: "9152987821"
+          - name: "Vandrevala"
+            number: "9999666555"
+          - name: "Emergency"
+            number: "112"
+      - type: "notify_user"
+        channel: "sms"
+        template: "We noticed you might be going through a tough time. You are not alone. Please consider reaching out to Tele-MANAS at 14416."
+      - type: "notify_trusted_contact"
+        channel: "sms"
+        template: "Hi, {user_name} may need support right now. Please reach out to check in on them. No specifics are shared to respect privacy."
+        
+  - severity: "Moderate"
+    condition: "occurrences_in_7_days >= 3"
+    actions:
+      - type: "notify_user"
+        channel: "in_app"
+        template: "You've had a few difficult days. It's okay to ask for help. Would you like to speak to a counsellor? [Book Link]"
